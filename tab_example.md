@@ -1,13 +1,14 @@
 ---
 
-title: PastEvents
-displaytext: Past Events
-layout: null
-tab: true
-order: 2
-tags: london
+layout: col-sidebar
+title: OWASP Mexico City
+tags: example-tag
+level: 0
 
----
+region: Latin America
+
+auto-migrated: 1
+
 
 ## Past Events
 
